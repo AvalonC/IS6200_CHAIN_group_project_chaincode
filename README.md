@@ -1,4 +1,4 @@
-# IS6400 CHAIN group project chaincode
+# IS6200 CHAIN group project chaincode
 
 ## Introduction
 This chaincode is necessary for the system running due to the chaincode defines the operation that can be adapted in the network.
